@@ -4,6 +4,7 @@ target/
 !**/src/test/**/target/
 .kotlin
 ignore/
+ignore2/
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
